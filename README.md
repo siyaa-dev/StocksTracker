@@ -18,10 +18,6 @@
  </tr>
 </table>
 
-## Visit StocksTracker:
-
-<a href="https://stockstracker-app.vercel.app/">Website</a>
-
 ## Tech Stack Used in StocksTracker:
 
 - **NextJS 13:** A popular JavaScript library for building user interfaces, providing a fast and responsive application.
