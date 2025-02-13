@@ -28,9 +28,7 @@
 
 ### Install Repository
 
-```git
-https://github.com/siyaa-dev/StocksTracker
-```
+[Install](https://github.com/siyaa-dev/StocksTracker/archive/refs/heads/main.zip)
 
 ### Run Project
 
